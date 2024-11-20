@@ -1,44 +1,12 @@
-@charset "utf-8";
-
-@import url(//fonts.googleapis.com/css?family=Handlee);
-
-@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/fonts/fontawesome-webfont.eot);
-@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/fonts/fontawesome-webfont.svg);
-@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/fonts/fontawesome-webfont.ttf);
-@import url(//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/fonts/fontawesome-webfont.woff);
-
 body {
-  background-color: #fafafa;
   text-align: center;
   margin: 50px 0;
 }
 
-h1, h2, h3, h4, a, p {
-  font-family: 'Handlee', cursive;
-  color: #444;
-  line-height: 1.4em;
-}
-
-hr {
-  max-width: 970px;
-}
-
 a {
-  color: #444;
-  -webkit-transition: color .25s ease-in;
-  -moz-transition: color .25s ease-in;
-  -o-transition: color .25s ease-in;
-  transition: color .25s ease-in;
+  color: #6d9206;
 }
 
-a:hover {
-  text-decoration: none;
-}
-
-.container {
-  max-width: 970px;
-}
-
-.fa-6x {
-  font-size: 6em;
+.img-circle {
+  border-radius: 50%;
 }
