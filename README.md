@@ -1,7 +1,7 @@
 ## My Personal Website
 
-Builded with [Middleman](http://middlemanapp.com/), a nice piece of software!
+Builded with [Middleman](https://middlemanapp.com/)
 
-Gracefully hosted by [Github Pages](http://pages.github.com/). Awesome! Like everything at GitHub...
+Gracefully hosted by [Github Pages](https://pages.github.com/)
 
-Deployment managed with [middleman-gh-pages](https://github.com/neo/middleman-gh-pages), thanks, good job!
+Deployed with [Middleman Github Pages](https://github.com/edgecase/middleman-gh-pages)
